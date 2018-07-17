@@ -3,13 +3,14 @@
 [/CENTER]
 
 [B][U][SIZE="5"]ABOUT[/SIZE][/U][/B]
-[B]ArrowOS[/B] is an AOSP based project started with the aim of keeping things simple, clean and neat. We added just 
-the right and mostly used stuff that will be actually USEFUL at the end of the day.
+[B]ArrowOS[/B] is an AOSP based project started with the aim of keeping things simple, clean and neat. We added just the right and mostly used stuff that will be actually USEFUL at the end of the day.
+
 [B]Website[/B]: [URL="https://arrowos.net/"]https://arrowos.net[/URL]
 [B]Telegram[/B]: [URL="https://t.me/Arrow_OS"]Channel[/URL] | [URL="https://t.me/ArrowOS"]Group[/URL]
 [B]Github[/B]: [URL="https://github.com/ArrowOS"]https://github.com/ArrowOS[/URL]
 [B]Code Review[/B]: [URL="https://review.arrowos.net"]review.arrowos.net[/URL]
 [B]E-mail[/B]: [EMAIL="arrowos.contact@gmail.com"]arrowos.contact[/EMAIL]
+
 To apply for maintainership [URL="https://github.com/ArrowOS/getting_started/blob/master/README.md"]Check this out[/URL]
 
 [SIZE="5"][B][U]WHAT WORKS?[/U][/B][/SIZE]
@@ -40,12 +41,18 @@ Be sure to include a log : [URL="https://forum.xda-developers.com/showthread.php
 [/LIST]
 
 [SIZE="5"][B][U]DOWNLOADS[/U][/B][/SIZE]
-[B]ROM:[/B] [URL="https://sourceforge.net/projects/arrow-os/files/"][SIZE="3"]Click Here for ROM[/SIZE][/URL]
+
+[B]ROM:[/B] [URL="https://sourceforge.net/projects/arrow-os/files/mido/"][SIZE="3"]Click Here for ROM[/SIZE][/URL]
 [B]Gapps:[/B] [URL="https://opengapps.org/"][SIZE="3"]Click Here for GApps[/SIZE][/URL]
 
 [B]Note :[/B] Pico, Nano or Micro Gapps are recommended. We don't prefer STOCK/HEAVY Gapps
 
+[URL="https://github.com/ArrowOS"][SIZE="2"]Source Code[/SIZE][/URL]
+[URL="https://github.com/ArrowOS-Devices"][SIZE="2"]Device Sources:[/SIZE][/URL]
+[URL="YOUR DEVICE TREE LINK HERE"]device tree[/URL] | [URL="YOUR KERNEL LINK HERE"]kernel[/URL] | [URL="YOUR VENDOR LINK HERE"]vendor[/URL]
+
 [SIZE="5"][B][U]Special thanks to[/U][/B][/SIZE]
+
 [URL="https://android.googlesource.com/"]AOSP[/URL]
 [URL="https://github.com/LineageOS"]LineageOS[/URL]
 [URL="https://github.com/ezio84"]Ezio Lacandia Bijelkic[/URL]
@@ -54,4 +61,4 @@ Be sure to include a log : [URL="https://forum.xda-developers.com/showthread.php
 [URL="https://github.com/scoute-dich/browser"]scoute-dich[/URL]
 [URL="https://github.com/SimpleMobileTools/Simple-Gallery"]Tibor Kaputa[/URL]
 And all other Open Source - Developers,Teams and Organisations 
-Hit a DM if we missed someone - you can always look at GitHub to find more contributors!
+DM if we missed someone - you can always look at GitHub to find more contributors! :highfive:
