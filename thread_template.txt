@@ -1,0 +1,56 @@
+[CENTER][IMG]https://github.com/ArrowOS/getting_started/blob/master/etc/logo.png?raw=true[/IMG]
+[B][U]ArrowOS[/U][/B]
+[/CENTER]
+
+[B][U][SIZE="5"]ABOUT[/SIZE][/U][/B]
+[B]ArrowOS[/B] is an AOSP based project started with the aim of keeping things simple, clean and neat, both for the Android system and users. We understand the pain of unnecessary and sometimes rarely used mods/features being shipped with custom roms now a days which may end up causing battery drains and/or memory leaks. This is being strictly avoided on our side keeping everything to a bare minimum, delivering the stable performance all the time without destroying the AOSP interface. With users getting more used to tweaks and features, we added just the right stuff that will be actually USEFUL at the end of the day.
+[B]Website[/B]: [URL="https://arrowos.net/"]https://arrowos.net[/URL]
+[B]Telegram[/B]: [URL="https://t.me/Arrow_OS"]Channel[/URL] | [URL="https://t.me/ArrowOS"]Group[/URL]
+[B]Github[/B]: [URL="https://github.com/ArrowOS"]https://github.com/ArrowOS[/URL]
+[B]Code Review[/B]: [URL="https://review.arrowos.net"]review.arrowos.net[/URL]
+[B]E-mail[/B]: [EMAIL="arrowos.contact@gmail.com"]arrowos.contact[/EMAIL]
+To apply for maintainership [URL="https://github.com/ArrowOS/getting_started/blob/master/README.md"]Check this out[/URL]
+
+[SIZE="5"][B][U]WHAT WORKS?[/U][/B][/SIZE]
+[LIST]
+[*]Almost everything
+[/LIST]
+
+[SIZE="5"][B][U]WHAT DOESN'T WORK?[/U][/B][/SIZE]
+[LIST]
+[*]You tell me
+[/LIST]
+Be sure to include a log : [URL="https://forum.xda-developers.com/showthread.php?t=2774386"]check how to[/URL]
+
+[SIZE="5"][B][U]INSTRUCTIONS[/U][/B][/SIZE]
+[B][SIZE="3"]Clean Flash[/SIZE][/B]
+[LIST=1]
+[*]Download The ROM & GApps
+[*]Wipe: System, Data, Dalvik, Cache
+[*]Flash ROM + GApps
+[*]Reboot & Enjoy
+[/LIST]
+[B][SIZE="3"]Dirty Flash[/SIZE][/B]
+[LIST=1]
+[*]Download the ROM
+[*]Wipe: Dalvik and Cache
+[*]Flash ROM (+Magisk if rooted previously or if want root)
+[*]Reboot & Enjoy
+[/LIST]
+
+[SIZE="5"][B][U]DOWNLOADS[/U][/B][/SIZE]
+[B]ROM:[/B] [URL="https://sourceforge.net/projects/arrow-os/files/"][SIZE="3"]Click Here for ROM[/SIZE][/URL]
+[B]Gapps:[/B] [URL="https://opengapps.org/"][SIZE="3"]Click Here for GApps[/SIZE][/URL]
+
+[B]Note :[/B] Pico, Nano or Micro Gapps are recommended. We don't prefer STOCK/HEAVY Gapps
+
+[SIZE="5"][B][U]Special thanks to[/U][/B][/SIZE]
+[URL="https://android.googlesource.com/"]AOSP[/URL]
+[URL="https://github.com/LineageOS"]LineageOS[/URL]
+[URL="https://github.com/ezio84"]Ezio Lacandia Bijelkic[/URL]
+[URL="https://github.com/maxwen"]Maxwen[/URL]
+[URL="https://github.com/Mazda--"]Alex Cruz[/URL]
+[URL="https://github.com/scoute-dich/browser"]scoute-dich[/URL]
+[URL="https://github.com/SimpleMobileTools/Simple-Gallery"]Tibor Kaputa[/URL]
+And all other Open Source - Developers,Teams and Organisations 
+Hit a DM if we missed someone - you can always look at GitHub to find more contributors!
