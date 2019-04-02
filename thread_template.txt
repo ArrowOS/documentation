@@ -47,17 +47,17 @@ Be sure to include a log : [URL="https://forum.xda-developers.com/showthread.php
 
 [B]Note :[/B] Pico, Nano or Micro Gapps are recommended. We don't prefer STOCK/HEAVY Gapps
 
-[URL="https://github.com/ArrowOS"][SIZE="2"]Source Code[/SIZE][/URL]
-[URL="https://github.com/ArrowOS-Devices"][SIZE="2"]Device Sources:[/SIZE][/URL]
-[URL="YOUR DEVICE TREE LINK HERE"]device tree[/URL] | [URL="YOUR KERNEL LINK HERE"]kernel[/URL] | [URL="YOUR VENDOR LINK HERE"]vendor[/URL]
+[B]ROM Source[/B]: [URL="https://github.com/ArrowOS"]https://github.com/ArrowOS[/URL]
+[B]Device sources[/B]: [URL="https://github.com/ArrowOS-devices"]https://github.com/ArrowOS-devices[/URL]
+[B]Kernel source[/B]:  
 
-[SIZE="5"][B][U]Special thanks to[/U][/B][/SIZE]
+[SIZE="5"][B][U]SPECIAL THANKS TO[/U][/B][/SIZE]
 
 [URL="https://android.googlesource.com/"]AOSP[/URL]
+[URL="https://source.codeaurora.org/quic/la"]CAF[/URL]
 [URL="https://github.com/LineageOS"]LineageOS[/URL]
-[URL="https://github.com/ezio84"]Ezio Lacandia Bijelkic[/URL]
-[URL="https://github.com/maxwen"]Maxwen[/URL]
-[URL="https://github.com/Mazda--"]Alex Cruz[/URL]
+[URL="https://github.com/DirtyUnicorns/"]Dirty Unicorns[/URL]
+[URL="https://github.com/omnirom"]OMNI ROM[/URL]
 [URL="https://github.com/scoute-dich/browser"]scoute-dich[/URL]
 [URL="https://github.com/SimpleMobileTools/Simple-Gallery"]Tibor Kaputa[/URL]
 And all other Open Source - Developers,Teams and Organisations 
