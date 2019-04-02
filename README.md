@@ -1,3 +1,4 @@
+
 # Getting started with ArrowOS
 
 ![ArrowOS](https://github.com/ArrowOS/getting_started/blob/master/etc/logo.png?raw=true)
@@ -14,9 +15,9 @@
 * GitHub, Telegram and XDA usernames.
 * Link to device tree, kernel source and vendor source.
 * Device name, codename.
-* What's all working and SeLinux status!
+* What's working, what's not working and do mention SeLinux status
 * Attach two screenshots, one of About section in Settings of the ROM and the other of terminal on build complete.
+* Please release the build to public (in forums like XDA, 4pda or your device's forum) before you apply or send an email for OFFICIAL status
 
-Read more about the same on our blog: 
-
+Read more about the same on our blog: [https://blog.arrowos.net/](https://blog.arrowos.net/)
 
