@@ -10,7 +10,8 @@
 [B]Github[/B]: [URL="https://github.com/ArrowOS"]https://github.com/ArrowOS[/URL]
 [B]Code Review[/B]: [URL="https://review.arrowos.net"]review.arrowos.net[/URL]
 [B]E-mail[/B]: [EMAIL="arrowos.contact@gmail.com"]arrowos.contact[/EMAIL]
-[B]PayPal[/B]: [URL="https://www.paypal.me/TeamArrowOS"]Click here (read more on our website)[/URL]
+[B]PayPal[/B]: [URL="https://www.paypal.me/TeamArrowOS"]Donate to us[/URL]
+[B]Blog[/B]: [URL="https://blog.arrowos.net/"]blog.arrowos.net[/URL]
 
 Checkout more documentation at (maintainership/contributing): [URL="https://github.com/ArrowOS/documentation"]Check this out[/URL]
 
@@ -26,11 +27,13 @@ Checkout more documentation at (maintainership/contributing): [URL="https://gith
 Be sure to include a log : [URL="https://forum.xda-developers.com/showthread.php?t=2774386"]check how to[/URL]
 
 [SIZE="5"][B][U]DOWNLOADS[/U][/B][/SIZE]
+[URL="https://arrowos.net/download.php"]Click here to Download[/URL]
+[B]Tip:[/B] Select OEM -> Device, choose GAPPS or VANILLA variants
+Read our blog article/post about: 
+* [URL="https://blog.arrowos.net/posts/about-gapps-vanilla-build"]GAPPS and VANILLA variants[/URL]
+* [URL="https://blog.arrowos.net/posts/checking-build-integrity"]Checking build integrity[/URL]
 
-[B]ROM:[/B] [URL="https://sourceforge.net/projects/arrow-os/files/"][SIZE="3"]Click Here for ROM[/SIZE][/URL]
-[B]Gapps:[/B] [URL="https://opengapps.org/"][SIZE="3"]Click Here for GApps[/SIZE][/URL]
-
-[B]Note :[/B] Pico, Nano or Micro Gapps are recommended.
+[HIDE]Trouble downloading through website? try to downloading from[URL="https://sourceforge.net/projects/arrow-os"]sourceforge.net[/URL][/HIDE]
 
 [B]ROM Source[/B]: [URL="https://github.com/ArrowOS"]https://github.com/ArrowOS[/URL]
-[B]Kernel source[/B]:  
+[B]Kernel Source[/B]: 
