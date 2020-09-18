@@ -28,7 +28,7 @@ Be sure to include a log : [URL="https://forum.xda-developers.com/showthread.php
 
 [SIZE="5"][B][U]DOWNLOADS[/U][/B][/SIZE]
 [URL="https://arrowos.net/download.php"]Click here to Download[/URL]
-[B]Tip:[/B] Select OEM -> Device, choose GAPPS or VANILLA variants
+[B]Tip:[/B] Select OEM -> Device,choose Arrow version, choose build type: "GAPPS" or "VANILLA" to download.
 Read our blog article/post about: 
 * [URL="https://blog.arrowos.net/posts/about-gapps-vanilla-build"]GAPPS and VANILLA variants[/URL]
 * [URL="https://blog.arrowos.net/posts/checking-build-integrity"]Checking build integrity[/URL]
