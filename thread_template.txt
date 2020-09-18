@@ -33,7 +33,5 @@ Read our blog article/post about:
 * [URL="https://blog.arrowos.net/posts/about-gapps-vanilla-build"]GAPPS and VANILLA variants[/URL]
 * [URL="https://blog.arrowos.net/posts/checking-build-integrity"]Checking build integrity[/URL]
 
-[HIDE]Trouble downloading through website? try to downloading from[URL="https://sourceforge.net/projects/arrow-os"]sourceforge.net[/URL][/HIDE]
-
 [B]ROM Source[/B]: [URL="https://github.com/ArrowOS"]https://github.com/ArrowOS[/URL]
 [B]Kernel Source[/B]: 
