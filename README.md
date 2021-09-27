@@ -10,7 +10,7 @@
 ## Compilation guide:
 [How to compile ArrowOS from source](https://blog.arrowos.net/compilation-guide/)
 
-## Join ArrowOS;
+## Join ArrowOS:
 [Apply for Maintainership](https://blog.arrowos.net/apply-for-maintainership/)
 
 ## ArrowOS Internal Configs and Infra platform
