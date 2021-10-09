@@ -2,8 +2,22 @@
 [B][U]ArrowOS[/U][/B]
 [/CENTER]
 
+[CODE]
+/*
+* We are not responsible for bricked devices, dead SD cards,
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+* do some research if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you point the finger at us for messing up your device, We will laugh at you.
+* It is your fault because you chose to do all the modifications on your device.
+* Remember projects like these and the work done on them is a hobby to the
+* contributors and the team members, no one is working for you nor is getting paid for it
+* have some respect for the work done by them since it is done purely on interest or a hobby
+*/
+[/CODE]
+
 [B][U][SIZE="5"]ABOUT[/SIZE][/U][/B]
-[B]ArrowOS[/B] is an [URL="https://source.android.com/"]AOSP[/URL]/[URL="https://wiki.codeaurora.org/xwiki/bin/QAEP/"]CAF[/URL] based project started with the aim of keeping things simple, clean and neat.
+[B]ArrowOS[/B] is an [URL="https://source.android.com/"]Android Open Source Project[/URL] based Android mobile operating system started with the aim of keeping things simple, clean and neat.
 
 [B]Website[/B]: [URL="https://arrowos.net/"]https://arrowos.net[/URL]
 [B]Telegram[/B]: [URL="https://t.me/Arrow_OS"]Channel[/URL] | [URL="https://t.me/ArrowOS"]TG Portal/Links[/URL]
@@ -35,5 +49,6 @@ Read our blog article/post about:
 * [URL="https://blog.arrowos.net/detailed-information-about-our-gapps-and-vanilla-build-types/"]GAPPS and VANILLA variants[/URL]
 * [URL="https://blog.arrowos.net/check-the-build-integrity-of-arrowos-builds/"]Checking build integrity[/URL]
 
-[B]ROM Source[/B]: [URL="https://github.com/ArrowOS"]https://github.com/ArrowOS[/URL]
-[B]Kernel Source[/B]: 
+[B]GPL compliance:[/B]
+[B]ROM Source[/B]- [URL="https://github.com/ArrowOS"]https://github.com/ArrowOS[/URL]
+[B]Kernel Source[/B]-
