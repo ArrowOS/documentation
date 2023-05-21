@@ -41,13 +41,13 @@ Checkout more documentation at (maintainership/contributing): [URL="https://gith
 Be sure to include a log : [URL="https://forum.xda-developers.com/showthread.php?t=2774386"]check how to[/URL]
 
 [SIZE="5"][B][U]DOWNLOADS[/U][/B][/SIZE]
-[URL="https://arrowos.net/download.php"]Click here to Download[/URL]
-[B]Tip:[/B] Select OEM -> Device,choose Arrow version, choose build type: "GAPPS" or "VANILLA" to download.
+[URL="https://arrowos.net/download/DEVICE_CODENAME"]Click here to Download[/URL]
+[B]Tip:[/B] Choose Arrow version -> Choose build type: "GAPPS" or "VANILLA" to download.
 
 Read our blog article/post about: 
-* [URL="https://blog.arrowos.net/how-to-report-a-bug/"]HOW-TO report a bug[/URL]
-* [URL="https://blog.arrowos.net/detailed-information-about-our-gapps-and-vanilla-build-types/"]GAPPS and VANILLA variants[/URL]
-* [URL="https://blog.arrowos.net/check-the-build-integrity-of-arrowos-builds/"]Checking build integrity[/URL]
+* [URL="https://blog.arrowos.net/android/arrowos/guides/how-to-report-a-bug/"]HOW-TO report a bug[/URL]
+* [URL="https://blog.arrowos.net/android/arrowos/detailed-information-about-our-gapps-and-vanilla-build-types/"]GAPPS and VANILLA variants[/URL]
+* [URL="https://blog.arrowos.net/android/arrowos/guides/check-the-integrity-of-arrowos-official-builds/"]Checking build integrity[/URL]
 
 [B]GPL compliance:[/B]
 [B]ROM Source[/B]- [URL="https://github.com/ArrowOS"]https://github.com/ArrowOS[/URL]
