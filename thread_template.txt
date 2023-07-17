@@ -20,7 +20,7 @@
 [B]ArrowOS[/B] is an [URL="https://source.android.com/"]Android Open Source Project[/URL] based Android mobile operating system started with the aim of keeping things simple, clean and neat.
 
 [B]Website[/B]: [URL="https://arrowos.net/"]https://arrowos.net[/URL]
-[B]Telegram[/B]: [URL="https://t.me/Arrow_OS"]Channel[/URL] | [URL="https://t.me/ArrowOS"]TG Portal/Links[/URL]
+[B]Telegram[/B]: [URL="https://t.me/ArrowOS"]Channel[/URL] | [URL="https://t.me/ArrowOSChat"]TG Chat[/URL]
 [B]Github[/B]: [URL="https://github.com/ArrowOS"]https://github.com/ArrowOS[/URL]
 [B]Code Review[/B]: [URL="https://review.arrowos.net"]review.arrowos.net[/URL]
 [B]E-mail[/B]: [EMAIL="arrowos.contact@gmail.com"]arrowos.contact[/EMAIL]
